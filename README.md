@@ -33,7 +33,6 @@ Requires root, LSPosed and [Spicy EX](https://github.com/amarinne/spicy-ex).
 ## Install
 
 APK from [Releases](https://github.com/amarinne/hyperglow/releases).
-Latest verified build: vC216 · 0.3.191.
 
 1. Enable Spicy EX for **Spotify** in LSPosed.
 2. Enable HyperGlow in LSPosed.

@@ -2,7 +2,9 @@
 
 # HyperGlow
 
-Animated lock screen and always-on display lyrics for HyperOS 3.
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20group-26A5E4?logo=telegram&logoColor=white)](https://t.me/spicyex)
+
+Animated lock screen and always-on display lyrics for HyperOS 3 and 4.
 
 Requires root, LSPosed and [Spicy EX](https://github.com/amarinne/spicy-ex).
 
@@ -16,7 +18,7 @@ Requires root, LSPosed and [Spicy EX](https://github.com/amarinne/spicy-ex).
 
 - Spicy EX lyrics on the HyperOS lock screen and AOD.
 - Line-, word- and syllable-synchronized karaoke.
-- Transliteration and translation with Spicy EX Full.
+- Transliteration and translation with Spicy EX.
 
 - AOD clock placement and burn-in movement.
 - Keep AOD active while lyrics are visible.
@@ -25,10 +27,10 @@ Requires root, LSPosed and [Spicy EX](https://github.com/amarinne/spicy-ex).
 
 ## Requirements
 
-- Rooted HyperOS 3.
+- Rooted HyperOS 3 or 4.
 - [LSPosed](https://github.com/LSPosed/LSPosed).
 - Spotify.
-- Spicy EX Lite or Full with **Publish lyrics to HyperGlow** enabled.
+- Spicy EX with **Publish lyrics to HyperGlow** enabled.
 
 ## Install
 
